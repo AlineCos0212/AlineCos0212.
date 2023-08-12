@@ -1,5 +1,3 @@
-# Perfil
-# 💫 About Me:
 🔭 Advisor I, Concentrix<br>👯 Mergulhando e Data Science<br>🤝 Programar<br>🌱 Java, Javascript, HTML, CSS, SQL<br>💬 Espiritualidade, concentração e consciencia<br>⚡ Fã da Xuxa, Gatos e cachorros❤
 
 
